@@ -15,7 +15,7 @@ Welcome to the repository of my **Master in Data Analytics**! This repository co
 The projects involve a wide range of technologies, including:
 
 - **Python** 🐍
-- **R** 📊
+- **Neural Networks** 📊
 - **SQL** 🗃️
 - **Machine Learning** 🤖
 - **Data Visualization** 📈
@@ -26,10 +26,7 @@ The projects involve a wide range of technologies, including:
 
 In this section, you'll find exercises grouped by technology. Each subfolder corresponds to a specific set of challenges and lessons that I completed, such as:
 
-- **Python**: Data manipulation, basic machine learning algorithms, and data visualization using libraries like Pandas, NumPy, Matplotlib, and Seaborn.
-- **R**: Statistical analysis, data wrangling, and visualizations using tools like `ggplot2`, `dplyr`, and `tidyverse`.
-- **SQL**: Advanced SQL queries for data extraction, manipulation, and analysis from relational databases.
-- **Machine Learning**: Implementing and experimenting with various machine learning algorithms, including regression, classification, and clustering.
+**Python**, **Bash**, **Cloud**, **Notebooks**, **Machine Learning**, **Docker**, **Flask**, **Kafka**, **Spark** **&** **SQL**
 
 ## 🤝 Data Projects
 
@@ -42,10 +39,10 @@ In this folder, you’ll find the group projects that were focused on solving re
 
 The four projects are:
 
-1. **Project 1: Predictive Maintenance** ⚙️
-2. **Project 2: Customer Segmentation** 🧑‍🤝‍🧑
-3. **Project 3: Time Series Forecasting** 📅
-4. **Project 4: Sentiment Analysis** 📢
+1. **Project 1: Fair Allocation Algorithms** ⚙️
+2. **Project 2: Short-distance carpooling solution** 🧑‍🤝‍🧑
+3. **Project 3: Cardiac disease detection** 📅
+4. **Project 4: Radiological image classification** 📢
 
 ## 🎓 Final Master Thesis (TFM)
 
@@ -56,18 +53,5 @@ The **TFM** is the culmination of my studies. It represents a comprehensive anal
 - **Machine learning models** that were trained to make predictions or classifications.
 - Detailed **documentation** explaining the methodology and results.
 
-The problem I tackled for my thesis was **[insert brief description of your thesis here]**.
+The problem I tackled for my thesis was **[leverage cutting-edge machine learning technology to identify and prevent pollution leaks from our machinery, ensuring a cleaner and safer environment for all]**.
 
-## 📊 Project Status
-
-Each project is marked with its current status:
-
-- ✅ Completed
-- 🔄 In Progress
-- 🚧 Under Review
-
-## 📌 How to Use This Repository
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/data-analytics-master.git
