@@ -1,8 +1,0 @@
-- Enlace presentación Canva
-https://www.canva.com/design/DAF4uvKVLAw/6XUJj8OCU3k8EPc3JTwKDg/edit?utm_content=DAF4uvKVLAw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-- Enlace video Youtube
-https://www.youtube.com/watch?v=EYObR8v4spQ&ab_channel=CarlosBuenrostroValverde
-
-- Enlace Github
-https://github.com/cbuenrostrovalverde/MDAES_Data_Project_I
