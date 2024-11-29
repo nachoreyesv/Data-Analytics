@@ -1,0 +1,11 @@
+apache-beam
+flask
+folium
+google-cloud-bigquery
+google-cloud-pubsub
+pandas
+pandas-gbq
+plotly
+requests
+streamlit
+streamlit-folium
