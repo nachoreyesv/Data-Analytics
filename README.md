@@ -1,4 +1,4 @@
-# Master in Data Analytics - Repository
+# Master in Data Analytics - Ignacio Reyes Vázquez
 
 Welcome to the repository of my **Master in Data Analytics**! This repository contains all the code and projects I completed during the course, which include exercises, group data projects, and my final master's thesis (TFM). Below you will find a breakdown of the contents and their organization.
 
